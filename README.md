@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
 ---
