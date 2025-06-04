@@ -1,13 +1,13 @@
 <!-- Banner / Header -->
-[![MasterHead](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Pranavi+%F0%9F%91%8B;Cybersecurity+%26+AI+enthusiast;Open+Source+Contributor)](https://github.com/pranavi-r)
+[![MasterHead](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Pranavi+%F0%9F%91%8B;Cybersecurity+)](https://github.com/pranavi-r)
 
 <!-- Floating Coding GIF -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👩‍💻 About Me
 - 🎓 CS undergrad @ UW-Madison  
-- 🔐 Cybersecurity + AI Policy nerd  
-- 🧠 Researching tech + trust at the intersection of code and ethics  
+- 🔐 Cybersecurity nerd  
+- 🧠 Researching tech + trust at the intersection of security and ethics  
 - 🌱 Currently learning: Risk compliance frameworks & LLM finetuning  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pranaviramineni/)
 
@@ -43,11 +43,6 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=j85isvhbzmfyaiyg3zgwzlj5b)
-
----
 
 ### 😂 Dev Joke of the Day
 
